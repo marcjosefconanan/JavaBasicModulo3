@@ -1,0 +1,4 @@
+interface Rosso {
+    void vediColori();
+
+}
